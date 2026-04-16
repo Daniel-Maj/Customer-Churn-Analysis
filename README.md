@@ -86,7 +86,7 @@ It includes:
 
 ## Dashboard preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
