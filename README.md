@@ -2,12 +2,6 @@
 This project explores why customers leave a telecom service and how we can predict and reduce churn.  I combined Python with Power BI to turn raw data into actionable insights that could help a business improve customer retention.
 # Customer Churn Analysis & Prediction
 
-## Overview
-
-This project explores why customers leave a telecom service and how churn can be predicted and reduced.
-
-It combines Python for data analysis and modelling with Power BI for visualisation, turning raw data into insights that could support better customer retention decisions.
-
 ---
 
 ## What this project looks at
